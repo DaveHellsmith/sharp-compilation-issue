@@ -1,0 +1,14 @@
+{
+  "name": "sharp-compilation-issue-ubuntu",
+  "version": "0.0.1",
+  "description": "Example repo to reproduce an issue with installing the package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DaveHellsmith",
+  "license": "MIT",
+  "dependencies": {
+    "plasmo": "^0.83.0"
+  }
+}
